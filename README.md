@@ -47,12 +47,6 @@
 
 ![](https://stackoverflow-readme-profile.johannchopin.fr/profile/8353201)
 
-![](https://stackoverflow-readme-profile.johannchopin.fr/tags-league-ranking/reactjs/8353201)
-![](https://stackoverflow-readme-profile.johannchopin.fr/tags-league-ranking/javascript/8353201)
-![](https://stackoverflow-readme-profile.johannchopin.fr/tags-league-ranking/next.js/8353201)
-![](https://stackoverflow-readme-profile.johannchopin.fr/tags-league-ranking/php/8353201)
-![](https://stackoverflow-readme-profile.johannchopin.fr/tags-league-ranking/laravel/8353201)
-
 </div>
 <!--
 **moshefortgang/moshefortgang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
